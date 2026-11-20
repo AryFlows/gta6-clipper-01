@@ -1,0 +1,6 @@
+# Build and upload working files — never part of the entry.
+out/
+src/
+clip/
+title.txt
+description.txt
